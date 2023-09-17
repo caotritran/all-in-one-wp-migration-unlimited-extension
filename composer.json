@@ -1,0 +1,22 @@
+{
+    "name": "caotritran/all-in-one-wp-migration-unlimited-extension",
+    "type": "wordpress-plugin",
+    "require": {}
+}
+
+{
+  "name": "caotritran/all-in-one-wp-migration-unlimited-extension",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/caotritran/all-in-one-wp-migration-unlimited-extension",
+  "authors": [
+    {
+      "name": "all-in-one-wp-migration-unlimited-extension",
+      "homepage": "https://servmask.com/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.4"
+  }
+}
